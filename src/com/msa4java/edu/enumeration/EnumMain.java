@@ -8,3 +8,4 @@ public class EnumMain {
         System.out.println(day.getKrDay());
     }
 }
+

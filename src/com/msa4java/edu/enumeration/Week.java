@@ -21,3 +21,4 @@ public enum Week {
         return this.krDay;
     }
 }
+
